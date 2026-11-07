@@ -10,8 +10,7 @@ int main(int argc, char *argv[]) {
 	for (int i = 0; i < 5; i++) {
 		printf("Enter city name %d: ", i + 1);
 		fgets(cities[i], sizeof(cities[i]), stdin);
-		cities[i][strcspn(cities[i], "\n")] = '\0';
-	}
+		cities[i][strcspn(cities[i], "\n")] = '\0';	}
 
 	printf("\nEntered Cities\n");
 	for (int i = 0; i < 5; i++) {
@@ -25,8 +24,7 @@ int main(int argc, char *argv[]) {
 		int current = strlen(cities[i]);
 		if (current > max) {
 			max = current;
-			longest = i;
-		}
+			longest = i;		}
 	}
 	
 	printf("\nLongest city name: %s\n", cities[longest]);
