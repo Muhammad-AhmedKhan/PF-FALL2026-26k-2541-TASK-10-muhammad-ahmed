@@ -14,3 +14,7 @@
 
 ## QUESTION 5
 <img width="531" height="428" alt="image" src="https://github.com/user-attachments/assets/624a0cda-e5df-4cd2-b978-0fed444e8e09" />
+
+## QUESTION 6
+<img width="517" height="355" alt="image" src="https://github.com/user-attachments/assets/99285fc5-3b51-49c0-ae53-2a2642ca1554" />
+
