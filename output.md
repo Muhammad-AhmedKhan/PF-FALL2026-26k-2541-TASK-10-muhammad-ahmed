@@ -18,3 +18,6 @@
 ## QUESTION 6
 <img width="517" height="355" alt="image" src="https://github.com/user-attachments/assets/99285fc5-3b51-49c0-ae53-2a2642ca1554" />
 
+## QUESTION 7
+<img width="535" height="354" alt="image" src="https://github.com/user-attachments/assets/343e8b4e-fabc-4f63-846d-c59716a70c20" />
+
