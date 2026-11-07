@@ -21,3 +21,6 @@
 ## QUESTION 7
 <img width="535" height="354" alt="image" src="https://github.com/user-attachments/assets/343e8b4e-fabc-4f63-846d-c59716a70c20" />
 
+## LEETCODE OUTPUT
+<img width="787" height="713" alt="image" src="https://github.com/user-attachments/assets/1fa95de6-0a32-4581-9e90-c4506676e101" />
+
