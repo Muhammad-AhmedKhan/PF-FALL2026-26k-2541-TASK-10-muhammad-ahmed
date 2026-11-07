@@ -11,16 +11,13 @@ int main(int argc, char *argv[]) {
 	for (int i = 0; i < 5; i++) {
 		printf("Enter student name %d: ", i + 1);
 		scanf("%s", names[i]);
-	}
-	
+	}	
 	for (int i = 0; i < 4; i++) {
 		for (int j = 0; j < 4 - i; j++) {
 			if (strcmp(names[j], names[j + 1]) > 0) {
 				strcpy(temp, names[j]);
 				strcpy(names[j], names[j + 1]);
-				strcpy(names[j + 1], temp);
-			}
-		}
+				strcpy(names[j + 1], temp);}}
 	}
 	
 	printf("\n Sorted Student Names\n");
@@ -28,4 +25,4 @@ int main(int argc, char *argv[]) {
 		printf("%s\n", names[i]);
 	}
 	
-	return 0;
+	return 0;}
