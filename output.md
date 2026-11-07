@@ -8,3 +8,6 @@
 
 ## QUESTION 3
 <img width="515" height="274" alt="image" src="https://github.com/user-attachments/assets/e119b2e6-c52c-4d45-8b3d-7d98f681d431" />
+
+## QUESTION 4
+<img width="529" height="239" alt="image" src="https://github.com/user-attachments/assets/ad8440c0-36a1-4485-b41c-fe70ff7caca9" />
